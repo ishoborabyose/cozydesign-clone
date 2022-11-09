@@ -1,9 +1,9 @@
-import Banner from "../components/Layout/Banner";
-import Awards from "../components/Layout/Awards";
-import Clients from "../components/Layout/Clients";
+import Help from "../components/Layout/help";
 import Happy from "../components/Layout/happy";
 import SanDiego from "../components/Layout/san-diego";
-import Help from "../components/Layout/Help";
+import Banner from "../components/Layout/banner";
+import Awards from "../components/Layout/awards";
+import Clients from "../components/Layout/clients";
 
 export default function Home() {
   return (

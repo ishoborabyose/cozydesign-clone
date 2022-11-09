@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "../../Button";
+import Button from "../../button";
 import image from "../../../public/images/getcozy.png";
 import Image from "next/image";
 
